@@ -1,2 +1,2 @@
 # Angular-js
-This is about Angular-js
+This is a repository for Angular-js Learning
